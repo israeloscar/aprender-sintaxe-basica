@@ -10,7 +10,8 @@ Iniciado em maio/2026 com o objetivo de conseguir meu primeiro emprego como dese
 ```
 SintaxeBasica/
 └── src/
-    └── Notas.java
+    ├── Notas.java
+    └── NumerosPrimos.java
 ```
 
 ---
@@ -20,6 +21,7 @@ SintaxeBasica/
 | Arquivo | Descrição | Conceitos praticados |
 |---|---|---|
 | `Notas.java` | Classificador de notas com validação | `if/else`, `Scanner`, operadores lógicos |
+| `NumerosPrimos.java` | Lista todos os primos até N | loops aninhados, `boolean`, `break` |
 
 ---
 
