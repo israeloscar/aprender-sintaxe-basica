@@ -11,7 +11,9 @@ Iniciado em maio/2026 com o objetivo de conseguir meu primeiro emprego como dese
 SintaxeBasica/
 └── src/
     ├── Notas.java
-    └── NumerosPrimos.java
+    ├── NumerosPrimos.java
+    ├── IMC.java
+    └── ConversorTemperatura.java
 ```
 
 ---
@@ -22,6 +24,8 @@ SintaxeBasica/
 |---|---|---|
 | `Notas.java` | Classificador de notas com validação | `if/else`, `Scanner`, operadores lógicos |
 | `NumerosPrimos.java` | Lista todos os primos até N | loops aninhados, `boolean`, `break` |
+| `IMC.java` | Calculadora e classificador de IMC | `if/else`, `printf`, operações matemáticas |
+| `ConversorTemperatura.java` | Conversor entre Celsius, Fahrenheit e Kelvin | `if/else`, `String.equals()`, `printf` |
 
 ---
 
