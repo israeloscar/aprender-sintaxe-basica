@@ -30,7 +30,7 @@ public class IMC {
             System.out.println("Obesidade!");
         }
 
-
+        sc.close();
 
     }
 }

@@ -43,5 +43,6 @@ public class ConversorTemperatura {
             // Quando a unidade não for reconhecida
             System.out.println("Unidade inválida!");
         }
+        sc.close();
     }
 }

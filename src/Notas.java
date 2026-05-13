@@ -25,6 +25,7 @@ public class Notas {
         // Qualquer valor abaixo de 5 — aluno reprovado
         System.out.println("Reprovado!");
     }
+    sc.close();
 
 
     }

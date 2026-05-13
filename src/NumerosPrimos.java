@@ -26,6 +26,8 @@ public class NumerosPrimos {
         }
         }
 
+    sc.close();
+
 
     }
 }
